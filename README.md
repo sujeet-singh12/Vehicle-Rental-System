@@ -1,8 +1,10 @@
 Vehicle Rental System using C++
 Project Overview
+
 This is a beginner-friendly C++ mini-project developed for the OOPS (PPF) assignment. It calculates rental charges for cars and bikes using inheritance.
 
 Features
+
 Rent a car or a bike.
 Display vehicle ID, model, rental duration and daily rate.
 Calculate total rental charges.
@@ -10,6 +12,7 @@ Validate vehicle choice, vehicle ID and rental duration.
 Demonstrate OOP concepts.
 
 OOP Concepts Used
+
 Classes and Objects
 Single Inheritance
 Constructors
@@ -18,10 +21,12 @@ Runtime Polymorphism
 Base-Class Pointer
 
 Rental Rates
+
 Car: Rs. 1500 per day
 Bike: Rs. 500 per day
 
 How to Run
+
 Install a C++ compiler.
 Compile using g++ main.cpp -o vehicle.
 Run the executable using .\vehicle.exe on Windows.
